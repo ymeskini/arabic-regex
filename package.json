@@ -1,0 +1,7 @@
+{
+  "name": "arabic-regex",
+  "version": "0.0.1",
+  "description": "Arabic regex utils",
+  "main": "index.js",
+  "license": "MIT"
+}
